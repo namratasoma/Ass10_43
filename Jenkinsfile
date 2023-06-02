@@ -4,7 +4,7 @@ pipeline
   {
     registry = "namratasoma/demoimage"
     registryCredential = 'dockerid'
-    dockerImage  ''
+    dockerImage  = ''
   }
   agent any
   
